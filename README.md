@@ -1,4 +1,8 @@
-### Hi there 👋 my name is Lucas Hartridge 
+## Hi there 👋 my name is Lucas Hartridge 
+
+![Coding is life](./code.gif)
+
+## About me ! 
 
 ### From 2013 I started my professional career in the attractive world of Software Quality Assurance, working in different kinds of projects such as Oil & Gas Industry, Health Care Services, Social Networking, Telecommunications, Marketing, and Hotel Industry 
 
@@ -11,6 +15,10 @@
 
 ### 💬 Ask me about anything. No Really, I always love to help even if I don't know, but I would love to provide you some guidance any QA Related topic such as API, UI and Performance Automation and how to shift left testing in your company in order to succesfully build the best software development process for your work
 
+## Follow me !
+<a href="https://www.linkedin.com/in/lhartridge/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
+
+<!--
 ### 🔭 I’m currently working on improving this read me to look better.
 
 ### 🌱 I will start working on 
@@ -28,8 +36,6 @@
 #### [ ] Investigate about Metrics, Logging
 #### [ ] Investigate about Machine Learning and Artificial Intelligence
 
-
-<!--
 **LucasHartridge/LucasHartridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
