@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Lucas Hartridge 
 
-![Coding is life](./code.gif)
+<img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" data-canonical-src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="100%" height="350" />
 
 ## About me ! 
 
@@ -11,7 +11,6 @@
 ### Right now I am working as Quality Engineer, developing different types of frameworks such as UI Framework, API Framework, and Load and Performance Framework that will guarantee the automation of the different test that are required according to the defined cross-company quality strategy and also focus on working with teams cross-company to develop the best software automated development process that will allow releasing a new product with confidence
 
 ### I am a Computer System Engineers graduated from the Universidad Abierta Interamericana of Buenos Aires
-
 
 ### 💬 Ask me about anything. No Really, I always love to help even if I don't know, but I would love to provide you some guidance any QA Related topic such as API, UI and Performance Automation and how to shift left testing in your company in order to succesfully build the best software development process for your work
 
