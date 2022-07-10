@@ -8,14 +8,18 @@
 
 ### I consider myself a passionate person about my work, that posses the motivation of the continuous learning that allows me to develop professionally in the software industry, to improve the company that I am working with to achieve their business goals in an efficient way
 
-### Right now I am working as Quality Engineer, developing different types of frameworks such as UI Framework, API Framework, and Load and Performance Framework that will guarantee the automation of the different test that are required according to the defined cross-company quality strategy and also focus on working with teams cross-company to develop the best software automated development process that will allow releasing a new product with confidence
+### As Quality Engineer I had developed different types of frameworks such as UI Framework, API Framework, and Load and Performance Framework that will guarantee the automation of the different test that are required according to the defined cross-company quality strategy and also focus on working with teams cross-company to develop the best software automated development process that will allow releasing a new product with confidence
+
+### In the last year I start working purely as Software Engineer building a Report Builder and a Scheduler Service. I am working with Python, AWS Technologies such as Lambdas, S3, SES, Redshift, RDS, Aurora and many more !.
 
 ### I am a Computer System Engineers graduated from the Universidad Abierta Interamericana of Buenos Aires
 
 ### 💬 Ask me about anything. No Really, I always love to help even if I don't know, but I would love to provide you some guidance any QA Related topic such as API, UI and Performance Automation and how to shift left testing in your company in order to succesfully build the best software development process for your work
 
 ## Follow me !
-<a href="https://www.linkedin.com/in/lhartridge/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp; 
+<a href="https://www.linkedin.com/in/lhartridge/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> &nbsp;
+
+<a href="https://medium.com/@lucas-hartridge9" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a> &nbsp; 
 
 <!--
 ### 🔭 I’m currently working on improving this read me to look better.
