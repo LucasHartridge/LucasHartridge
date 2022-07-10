@@ -10,7 +10,7 @@
 
 ### As Quality Engineer I had developed different types of frameworks such as UI Framework, API Framework, and Load and Performance Framework that will guarantee the automation of the different test that are required according to the defined cross-company quality strategy and also focus on working with teams cross-company to develop the best software automated development process that will allow releasing a new product with confidence
 
-### In the last year I start working purely as Software Engineer building a Report Builder and a Scheduler Service. I am working with Python, AWS Technologies such as Lambdas, S3, SES, Redshift, RDS, Aurora and many more !.
+### In 2021 I started working purely as Software Engineer building a Report Builder and a Scheduler Service. I am working with Python, AWS Technologies such as Lambdas, S3, SES, Redshift, RDS, Aurora and many more !.
 
 ### I am a Computer System Engineers graduated from the Universidad Abierta Interamericana of Buenos Aires
 
